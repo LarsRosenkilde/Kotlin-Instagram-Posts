@@ -9,3 +9,4 @@ fun main() {
     val word = "racecar"
     println(Palindrome(word: word).isPalindrome())
 }
+
